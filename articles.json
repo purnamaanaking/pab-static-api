@@ -1,12 +1,14 @@
 {
   "title": "PAB Static API for Learning",
-  "data": [
+  "articles": [
     {
       "id": "1",
       "title":
         "Dorong Pengembangan UMKM, IT Telkom Surabaya Gandeng UD Rozi dalam Pembuatan Website",
       "image":
-        "https://ittelkom-sby.ac.id/wp-content/uploads/2022/10/Salinan-IMG_0823-768x512.jpg"
+        "https://ittelkom-sby.ac.id/wp-content/uploads/2022/10/Salinan-IMG_0823-768x512.jpg",
+      "date": "Surabaya, Oktober 2022",
+      "content": "Dewasa ini dunia bergeser ke industri 4.0 dimana digitalisasi secara masif terjadi dan memaksa segala lini untuk mengikuti perkembangan arus tersebut, mereka yang tidak dapat mengikuti pastinya akan tertinggal. Bagaimana pun, kemajuan teknologi adalah sesuatu yang tidak bisa dihindari dari kehidupan saat ini namun juga memberikan dampak positif yang besar.\n\nSalah satunya, manfaat teknologi terutama internet sangat membantu para pengusaha untuk melakukan promosi usahanya hingga ke berbagai pelosok dan lapisan masyarakat. Pengusaha tidak lagi dapat berjualan secara offline namun juga online melalui marketplace seperti Shopee, Lazada, Tokopedia dan lain sebagainya. Namun, hanya berjualan di marketplace saja tidak cukup karena adanya banyak competitor sehingga perlu menonjolkan diri dalam kompetisi di platform daring tersebut.\n\n“Ketika sebuah bisnis hanya berfokus pada membuat toko online saja maka calon pembeli tidak memiliki keterikatan emosional. Hanya akan ada kompetisi harga produk antar toko di platform dan yang dipilih biasanya yang paling murah. Maka perlu membangun brand dengan keunikan sendiri. Disinilah website menjadi startegi digital branding yang baik.” Jelas Riza Akhsani Setyo Prayoga, ketua tim pengabdian masyarakat sekaligus dosen prodi Informatika ITTelkom Surabaya."
     },
     {
       "id": "2",
