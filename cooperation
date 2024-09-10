@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": [
+       {
+            "id": 4,
+            "region_id": 134,
+            "pihak_kerjasama": "Dengan Pihak Ketiga",
+            "mitra_kerjasama": "test input baru",
+            "jangka_waktu": 20,
+            "satuan": "Tahun",
+            "tanggal_dokumen_kerjasama": "2024-08-14",
+            "perihal_dokumen_kerjasama": "ini data dokumen baru",
+            "dokumen_kerjasama": "pemeirintahan/134_Gayungan/xFKGgcEnMc1ejy7n0Yp3paRlkDu3gGXqEqcduOfC.pdf",
+            "created_at": "2024-08-14T02:04:20.000000Z",
+            "updated_at": "2024-08-14T02:04:20.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "region_id": 134,
+            "pihak_kerjasama": "Dengan Pihak Ketiga",
+            "mitra_kerjasama": "PT ABC Berkah",
+            "jangka_waktu": 2,
+            "satuan": "Triwulan",
+            "tanggal_dokumen_kerjasama": "2024-08-01",
+            "perihal_dokumen_kerjasama": "laskjdsd",
+            "dokumen_kerjasama": "pemeirintahan/134_Gayungan/1Qa79ODpvsUfczL8RC4cWYuI75tBN640h1a0n9du.pdf",
+            "created_at": "2024-08-14T02:10:10.000000Z",
+            "updated_at": "2024-08-14T02:10:10.000000Z",
+            "deleted_at": null
+        }
+    ]
+}
