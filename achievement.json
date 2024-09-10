@@ -5,8 +5,18 @@
             "id": 1,
             "region_id": 134,
             "tingkat": "Provinsi",
-            "prestasi": "coba input prestasi rev 2",
-            "tahun": 2020,
+            "prestasi": "Juara I Lomba Kampung Bebas Narkoba dalam Rangka Memperingati Hari Anti Narkoba Internasional",
+            "tahun": 2023,
+            "created_at": "2024-08-12T07:44:02.000000Z",
+            "updated_at": "2024-08-12T08:32:06.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 1,
+            "region_id": 134,
+            "tingkat": "Kabupaten",
+            "prestasi": "Nominator I PKBN Tingkat Kabupaten",
+            "tahun": 2023,
             "created_at": "2024-08-12T07:44:02.000000Z",
             "updated_at": "2024-08-12T08:32:06.000000Z",
             "deleted_at": null
